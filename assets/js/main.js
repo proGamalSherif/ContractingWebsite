@@ -1,18 +1,18 @@
 const imageArr = [{
         name: 'Image 1',
-        path: '/assets/images/Slider1.jpg'
+        path: '/FinalAfaneh/assets/images/Slider1.jpg'
     },
     {
         name: 'Image 2',
-        path: '/assets/images/Slider2.jpg'
+        path: '/FinalAfaneh/assets/images/Slider2.jpg'
     },
     {
         name: 'Image 3',
-        path: '/assets/images/Slider3.jpg'
+        path: '/FinalAfaneh/assets/images/Slider3.jpg'
     },
     {
         name: 'Image 4',
-        path: '/assets/images/Slider4.jpg'
+        path: '/FinalAfaneh/assets/images/Slider4.jpg'
     }
 ];
 let lastIndex = 0;
